@@ -9,3 +9,5 @@
 Watch out for new trends and technologies in web development.
 
 Graduated in Systems Analysis and Development and passionate about solving problems, I believe that technology aims to improve the lives of millions of people every day.
+
+**"If at first the idea is not absurd, then there is no hope for it."** - <i> Albert Einstein </i> 
