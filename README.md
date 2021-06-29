@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://brunomaarts.github.io/portfolio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bruno_marts/)
 
-<img align="right" width="375" alt="" src="https://brunomaarts.github.io/portfolio/img/bruno-gif.gif" style="border-radius:50%" />
+<img align="right" width="200" alt="" src="https://brunomaarts.github.io/portfolio/img/bruno-gif.gif" />
 
 Watch out for new trends and technologies in web development.
 
